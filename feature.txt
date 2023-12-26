@@ -1,2 +1,3 @@
 feature A
+DEV B - update category
 dev A - create category
